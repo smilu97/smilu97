@@ -12,4 +12,4 @@ In military service
 
 ### [HYU](http://cse.hanyang.ac.kr/)
 
-### [SOCC
+### [SOCC](https://socc-io.github.io/)

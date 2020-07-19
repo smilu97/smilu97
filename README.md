@@ -4,7 +4,7 @@
 
 ## Status
 
-In military service
+In military service (~2020.08.02)
 
 ![전역시켜줘어어](https://raw.githubusercontent.com/smilu97/smilu97/master/ets.jpg)
 

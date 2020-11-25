@@ -10,7 +10,7 @@ Working...
 
 ## Organizations
 
-### [HYU](http://cse.hanyang.ac.kr/)
+### [HYU](http://cs.hanyang.ac.kr/)
 
 ### [SOCC](https://socc-io.github.io/)
 

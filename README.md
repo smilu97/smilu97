@@ -4,9 +4,9 @@
 
 ## Status
 
-Working...
+Studying...
 
-[BLUEFROG](https://bluefrog.co.kr/) Developer
+[HYU](http://cs.hanyang.ac.kr/) CS
 
 ## Organizations
 

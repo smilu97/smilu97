@@ -2,6 +2,8 @@
 
 * E-Mail: smilup2244@gmail.com
 
+[Activities](./activities.md)
+
 ## Status
 
 Studying...

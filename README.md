@@ -1,6 +1,8 @@
 # REEEEEEAD MEEEEE
 
-* E-Mail: smilup2244@gmail.com
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/smilu97/)](https://twitter.com/smilu97/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/smilu97)](https://www.github.com/smilu97)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-B23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smilup2244@gmail.com)](mailto:smilup2244@gmail.com)
 
 한양대학교 컴퓨터공학과 4학년
 

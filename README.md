@@ -4,8 +4,6 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/smilu97)](https://www.github.com/smilu97)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-B23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smilup2244@gmail.com)](mailto:smilup2244@gmail.com)
 
-한양대학교 컴퓨터공학과 4학년
-
 [Activities](./activities.md)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smilu97)](https://github.com/anuraghazra/github-readme-stats)

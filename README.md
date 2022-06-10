@@ -7,5 +7,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smilu97)](https://github.com/anuraghazra/github-readme-stats)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=smilu2245)](https://solved.ac/smilu2245)
-
-Junior developer studying [pinpoint](https://github.com/pinpoint-apm/pinpoint).

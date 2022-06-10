@@ -1,4 +1,4 @@
-# REEEEEEAD MEEEEE
+# HELL O!
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/smilu97/)](https://twitter.com/smilu97/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/smilu97)](https://www.github.com/smilu97)
@@ -9,11 +9,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smilu97)](https://github.com/anuraghazra/github-readme-stats)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=smilu2245)](https://solved.ac/smilu2245)<br/>
-
-## Organizations
-
-### [HYU](http://cs.hanyang.ac.kr/)
-
-### [SOCC](https://socc-io.github.io/)
-
-### [BLUEFROG](https://bluefrog.co.kr/) (~Feb 2021)
